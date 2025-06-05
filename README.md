@@ -12,7 +12,7 @@
 
 - 🎓 Diploma student at Behala Government Polytechnic, Computer Science & Technology  
 - 💻 Passionate about building full-stack applications  
-- 🌱 Currently learning DSA, DevOps & Cloud Computing  
+- 🌱 Currently learning DSA, DevOps  
 - 💬 Ask me about React, Node.js, MongoDB, JavaScript  
 - 📫 Reach me at: santrasurya70@gmail.com  
 
