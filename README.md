@@ -1,90 +1,70 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=260&section=header&text=Welcome%20to%20Surya's%20World&fontSize=40&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#03ecfc,#03fcb6&height=250&section=header&text=Hi,%20I'm%20Surya%20Santra!&fontSize=40&fontAlign=50&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Web+Development+Enthusiast;Frontend+%26+Backend+Developer;JavaScript+%26+React+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&weight=700&size=22&duration=3000&pause=800&color=00d2ff&center=true&vCenter=true&width=480&lines=Full+Stack+Web+Developer;MERN+Stack+Explorer;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryasantra&show_icons=true&theme=radical&title_color=00ffff&text_color=ffffff&icon_color=00ffff&border_color=00ffff&bg_color=00000000" width="90%" />
-</div>
+### 🧠 About Me
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryasantra&theme=tokyo-night&color=8be9fd&line=bd93f9&point=50fa7b&area=true&bg_color=00000000" width="90%" />
-</div>
+- 🎓 Diploma student at Behala Government Polytechnic, Computer Science & Technology  
+- 💻 Passionate about building full-stack applications  
+- 🌱 Currently learning DSA, DevOps & Cloud Computing  
+- 💬 Ask me about React, **Node.js, **MongoDB, **JavaScript  
+- 📫 Reach me at: santrasurya@gmail.com  
 
-<div align="center">
-  <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" width="94%" />
-</div>
+---
+
+### 🛠 Technologies & Tools
+
+#### 👨‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=java,c,python,js,php" height="40" alt="Languages" />
+
+#### 🌐 Frontend  
+<img src="https://skillicons.dev/icons?i=react,html,css" height="40" alt="Frontend" />
+
+#### 🔙 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Backend" />
+
+#### 🧩 Databases  
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" height="40" alt="Databases" />
+
+#### 🛠 Tools  
+<img src="https://skillicons.dev/icons?i=git,aws" height="40" alt="Tools" />
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryasantra&layout=compact&theme=tokyonight&title_color=00FFFF&text_color=FFFFFF" width="90%" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suryasantra&color=0000ff&style=social" width="80px" alt="Profile Views" />
-</p>
-
-<!-- Skills -->
-<img src="https://img.shields.io/badge/SKILLS-00ffff?style=for-the-badge&labelColor=000000&logo=vercel&logoColor=00ffff" />
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-</p>
-
-### Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-</p>
-
-### Database
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" />
-</p>
-
-### Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suryasantra&show_icons=true&theme=dark&bg_color=000000&title_color=00d2ff&text_color=ffffff&icon_color=4a00e0" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryasantra&layout=compact&theme=dark&bg_color=000000&title_color=00d2ff&text_color=ffffff" width="48%"/>
 </p>
 
 ---
 
-## :speech_balloon: Connect with Me
+### 📈 Activity Graph
+
 <p align="center">
-  <a href="mailto:santrasurya@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryasantra&theme=react-dark&color=00d2ff&line=4a00e0&point=00bfff&bg_color=000000" width="90%"/>
 </p>
+
+<div align="center">
+  <!-- GitHub Snake Effect with neon blue-purple colors -->
+  <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" width="94%" style="filter: drop-shadow(0 0 8px #00d2ff);" />
+</div>
 
 ---
 
-> *"Code with passion, create with purpose."* — Surya Santra
-
+### 📬 Connect with Me  
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" />
+  <a href="mailto:santrasurya@gmail.com"><img src="https://img.shields.io/badge/Gmail-00d2ff?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/suryasantra"><img src="https://img.shields.io/badge/GitHub-00d2ff?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=180" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#03ecfc,#03fcb6&height=150&section=footer"/>
 </p>
