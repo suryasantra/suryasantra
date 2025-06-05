@@ -48,10 +48,9 @@
 
 ### 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryasantra&theme=react-dark&color=00d2ff&line=4a00e0&point=00bfff&bg_color=000000" width="90%"/>
-</p>
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suryasantra&theme=tokyo-night&color=8be9fd&line=bd93f9&point=50fa7b&area=true&bg_color=00000000" width="90%" />
+</div>
 <div align="center">
   <!-- GitHub Snake Effect with neon blue-purple colors -->
   <img src="https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg" width="94%" style="filter: drop-shadow(0 0 8px #00d2ff);" />
