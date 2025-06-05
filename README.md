@@ -13,8 +13,8 @@
 - 🎓 Diploma student at Behala Government Polytechnic, Computer Science & Technology  
 - 💻 Passionate about building full-stack applications  
 - 🌱 Currently learning DSA, DevOps & Cloud Computing  
-- 💬 Ask me about React, **Node.js, **MongoDB, **JavaScript  
-- 📫 Reach me at: santrasurya@gmail.com  
+- 💬 Ask me about React, Node.js, MongoDB, JavaScript  
+- 📫 Reach me at: santrasurya70@gmail.com  
 
 ---
 
@@ -61,7 +61,7 @@
 
 ### 📬 Connect with Me  
 <p align="center">
-  <a href="mailto:santrasurya@gmail.com"><img src="https://img.shields.io/badge/Gmail-00d2ff?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:santrasurya70@gmail.com"><img src="https://img.shields.io/badge/Gmail-00d2ff?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/suryasantra"><img src="https://img.shields.io/badge/GitHub-00d2ff?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
